@@ -22,6 +22,6 @@ The folder contains the following files:
 Instruction for running the code:
 
 1. Install R(https://www.r-project.org/) and RStudio (https://www.rstudio.com/).
-2. Download all files in into a new folder on your pc.
+2. Download all files into a new folder on your pc.
 3. Open "LeporidBonesRScript.R" in RStudio.
 4. Follow the instructions in the R script and use the "Run" function at the top of the source pane to run the tests.
