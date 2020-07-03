@@ -2,6 +2,8 @@
 
 Nahuel A. Scheifler, María C. Álvarez, Daniel J. Rafuse, Cristian A. Kaufmann, Agustina Massigoge, Mariela E. González, María A. Gutiérrez
 
+https://doi.org/10.1016/j.jasrep.2020.102340
+
 Supplemental Material - R code and Data files
 
 10 April 2020 (Updated 16 July 2018)
